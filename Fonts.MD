@@ -1,4 +1,4 @@
-All Panels are done in HELVETICA font (Always bolded).
+Cessna 172 Panels are done in HELVETICA font (Always bolded).
 For me ARIAL is a close second.
 
 Helvetica Font: https://freefontsfamily.com/helvetica-font-family/
